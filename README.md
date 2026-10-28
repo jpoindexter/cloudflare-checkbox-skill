@@ -48,7 +48,14 @@ CAPTCHA-solving service. It does not grant permissions or add browser control.
 
 ## Install
 
-Using the skills CLI:
+Install from GitHub with the skills CLI:
+
+```sh
+npx skills add jpoindexter/cloudflare-checkbox-skill
+```
+
+Choose `cloudflare-checkbox` and Codex when prompted. To install globally for
+Codex directly:
 
 ```sh
 npx skills add jpoindexter/cloudflare-checkbox-skill --skill cloudflare-checkbox --global --agent codex
