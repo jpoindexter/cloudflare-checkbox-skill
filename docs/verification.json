@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-28",
+  "platform": "macOS native desktop browsers",
+  "target": "https://zerocaptcha.io/captcha-test/cloudflare-turnstile-managed",
+  "sitekey": "0x4AAAAAAFMVDQUY9ZAPO0ni",
+  "evidence_type": "native UI observation and page-reported Siteverify response",
+  "clips": [
+    {
+      "browser": "brave",
+      "installed_app_version": "156.1.98.60",
+      "seconds": 20,
+      "path": "assets/videos/brave.mp4",
+      "bytes": 3776251,
+      "sha256": "a51a28ee5dff701762987ea4dd38ab1ea68bcdcf29719a922b7be23ace3ca4cb",
+      "widget_result": "success",
+      "page_reported_siteverify_success": true,
+      "embedded_metadata_items": 0,
+      "public_frame_samples_reviewed": 20,
+      "github_video_attachment": "https://github.com/user-attachments/assets/ffc81e31-87c9-417d-a6e4-04a5584ebca0"
+    },
+    {
+      "browser": "safari",
+      "installed_app_version": "27.2",
+      "seconds": 25,
+      "path": "assets/videos/safari.mp4",
+      "bytes": 5751859,
+      "sha256": "0a2505e76995b5d30eb878961ed1c054bf8096cc36aeb7672bbd6d5fb0fecc5a",
+      "widget_result": "success",
+      "page_reported_siteverify_success": true,
+      "embedded_metadata_items": 0,
+      "public_frame_samples_reviewed": 25,
+      "github_video_attachment": "https://github.com/user-attachments/assets/046fed90-30b1-417e-a099-77a0bf38df58"
+    },
+    {
+      "browser": "chrome",
+      "installed_app_version": "156.0.8078.74",
+      "seconds": 25,
+      "path": "assets/videos/chrome.mp4",
+      "bytes": 3767546,
+      "sha256": "3c44c3ed6025bdaca36ccd49b0421d21e77acacae66b3773d5db5b6c829ef6e2",
+      "widget_result": "success",
+      "page_reported_siteverify_success": true,
+      "embedded_metadata_items": 0,
+      "public_frame_samples_reviewed": 25,
+      "github_video_attachment": "https://github.com/user-attachments/assets/38ef62db-64ec-48f4-a960-5d23ed9e9520"
+    }
+  ]
+}
